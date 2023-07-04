@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="amount" type="id" />
+    <item name="amount_input" type="id" />
+    <item name="pax" type="id" />
+    <item name="pax_input" type="id" />
+    <item name="SVS_btn" type="id" />
+</resources>
